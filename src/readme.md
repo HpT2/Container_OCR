@@ -12,6 +12,6 @@ Reuse pretrained yolov4 model from [lamnguyenkhoa](https://github.com/lamnguyenk
 
 Folder model must be placed at the same folder with container_ocr.py 
 
-Bad image processing module, need some improvements.
+Bad image processing in ocr module, need some improvements.
 
 
